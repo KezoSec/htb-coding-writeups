@@ -10,6 +10,9 @@ Take a number, print "odd" if odd and "even" if even.
 
 One line. Use the modulo operator to check divisibility by 2.
 
+<img src="images/image.png" width="600">
+
+
 ```python
 n = int(input())
 print("odd" if n % 2 != 0 else "even")
