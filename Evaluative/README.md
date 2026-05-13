@@ -13,6 +13,10 @@ Straightforward polynomial evaluation. Given coefficients a0 through a8 and an i
 
 The input is two lines. First line has 9 space-separated coefficients, second line is x. We use `enumerate` to pair each coefficient with its power, then sum them up.
 
+<img src="images/image.png" width="600">  
+
+
+
 ```python
 coeffs = list(map(int, input().split()))
 x = int(input())

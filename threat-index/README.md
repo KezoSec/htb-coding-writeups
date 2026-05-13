@@ -10,6 +10,9 @@ Scan a data stream for 18 weighted keywords, sum occurrences times weight, print
 
 For each keyword, count how many times it appears in the stream and multiply by its weight. `str.count()` handles the substring search, and a single sum comprehension ties it all together.
 
+<img src="images/image.png" width="600">
+
+
 ```python
 def threat_score(stream):
     keywords = {
