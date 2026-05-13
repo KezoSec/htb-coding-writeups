@@ -7,3 +7,4 @@ Writeups for Hack The Box Coding challenges.
 | Challenge | Difficulty | Category |
 |-----------|------------|----------|
 | [Threat Index](./threat-index/README.md) | Very Easy | Coding |
+| [Evaluative](./Evaluative/README.md) | Very Easy | Coding |
