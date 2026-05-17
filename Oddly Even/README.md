@@ -1,6 +1,6 @@
 # Oddly Even - HTB Coding Challenge Writeup
 
-**Difficulty:** Very Easy
+**Difficulty:** Very Easy  
 **Category:** Coding
 
 ## Summary
