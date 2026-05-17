@@ -20,4 +20,4 @@ print(input()[::-1])
 HTB{r3VerS4l?_wElL_1_n3vEr_d0_th4t_th1ng}
 
 ## Takeaway
-`[::-1]` is the most Pythonic way to reverse a string. The slice syntax is `[start:stop:step]` — a step of -1 means go backwards through the whole thing.
+`[::-1]` is the most Pythonic way to reverse a string. The slice syntax is `[start:stop:step]`, a step of -1 means go backwards through the whole thing.
