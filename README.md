@@ -10,4 +10,6 @@ Writeups for Hack The Box Coding challenges.
 | [Evaluative](./Evaluative/README.md) | Very Easy | Coding |
 | [Oddly Even](./Oddly%20Even/README.md) | Very Easy | Coding |
 | [Reversal](./Reversal/README.md) | Very Easy | Coding |
+| [Addition](./Addition/README.md) | Very Easy | Coding |
+
 
